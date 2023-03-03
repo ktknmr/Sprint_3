@@ -8,9 +8,10 @@ urls = {
 # данные для авторизации/регистрации
 login_data = {
     'name': 'Maria',
-    'email': 'mariakotkina6333@yandex.ru',
+    'email': 'mariakotkina6367@yandex.ru',
     'password': '123456',
-    'bad_password': '12345'
+    'bad_password': '12345',
+    'old_email': 'mariakotkina6350@yandex.ru'
 }
 
 # xpath для кнопок
